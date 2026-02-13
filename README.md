@@ -10,3 +10,6 @@ If it reads anything as "Unknown Map" and you'd like to fix it, right-click the 
 You can then right-click it again and edit the name, this will be remembered for next time you load the same file.
 
 There's some other features to this program that may also be useful to you, I will write further documentation about this at a later time.
+
+# Download
+Go to the [Releases](https://github.com/BenjaminCot/HaloMCCReach-mvar-viewer/releases) Tab.
